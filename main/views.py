@@ -21,3 +21,15 @@ def one(request):
 
 def cat(request):
     return render(request, 'main/cat.html')
+
+def hh1(request):
+    return render(request, 'main/hh1.html')
+
+def hh2(request):
+    return render(request, 'main/hh2.html')
+
+def hh3(request):
+    return render(request, 'main/hh3.html')
+
+def hh4(request):
+    return render(request, 'main/hh4.html')
