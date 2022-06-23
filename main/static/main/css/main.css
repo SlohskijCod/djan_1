@@ -70,10 +70,10 @@ main .desk {
 }
 
 main .desk_1 {
-    margin-top: -150px;
-    margin-right: 100px;
+    margin-top: -100px;
+    margin-right: 4%;
     float: right;
-    width: 440px;
+    width: 50%;
 }
 
 main .lay {
@@ -98,6 +98,7 @@ main .dropbtn {
 main .dropdown {
     position: relative;
     display: inline-block;
+    margin-left: 8%;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -143,4 +144,39 @@ main .name {
     float: left;
     width: 100%;
     text-align: center;
+}
+.st {
+    margin-top: 13%;
+}
+.st1 {
+    width: 17%;
+    float: left;
+    margin-left: 2%;
+}
+
+.st2 {
+    width: 18%;
+    margin-left: 3%;
+}
+
+.st3 {
+    width: 30%;
+    float: right;
+}
+
+.st4{
+    width: 22%;
+    float: right;
+}
+
+.hh{
+    margin-top: 3%;
+    margin-left: 4.75%;
+}
+
+.hh1 {
+    background-color: #fcfcfc; /* Green */
+    border: none;
+    text-align: center;
+    margin-left: 4.75%;
 }
