@@ -162,11 +162,13 @@ main .name {
 .st3 {
     width: 30%;
     float: right;
+    margin-top: 1%;
 }
 
 .st4{
-    width: 22%;
+    width: 21.5%;
     float: right;
+    margin-top: 4%;
 }
 
 .hh{
@@ -179,4 +181,40 @@ main .name {
     border: none;
     text-align: center;
     margin-left: 4.75%;
+}
+
+.hh_1 {
+    margin-top: -3.75%;
+    margin-left: 26%;
+}
+
+.hh_1_2 {
+    background-color: #fcfcfc; /* Green */
+    border: none;
+    text-align: center;
+    margin-left: 26%;
+}
+
+.hh_2 {
+    margin-top: -3.75%;
+    margin-left: 50%;
+}
+
+.hh_2_2 {
+    background-color: #fcfcfc; /* Green */
+    border: none;
+    text-align: center;
+    margin-left: 50%;
+}
+
+.hh_3 {
+    margin-top: -3.75%;
+    margin-left: 79%;
+}
+
+.hh_3_2 {
+    background-color: #fcfcfc; /* Green */
+    border: none;
+    text-align: center;
+    margin-left: 79%;
 }
