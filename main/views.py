@@ -19,3 +19,5 @@ def cont(request):
 def one(request):
     return render(request, 'main/one.html')
 
+def cat(request):
+    return render(request, 'main/cat.html')
